@@ -28,3 +28,16 @@ body {
     align-items: center;
     
   }
+  header {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    color: #FFFFFF;
+    padding-left: 75px;
+  }
+  
+  header span {
+    font-weight: 600;
+  }
+  
