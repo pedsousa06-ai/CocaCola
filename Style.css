@@ -73,4 +73,18 @@ body {
     filter: drop-shadow(10px 20px 10px rgba(0, 0, 0, 0.9));  
   }
   
+  footer {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 75px;
+    padding-left: 75px;
+    color: #FFFFFF;
+    font-weight: 100;
+  }
+  
+  footer div {
+    width: 64px;
+  }
   
